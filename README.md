@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Darya 👋
 
-<!--
-**DaryaElagina/DaryaElagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst / BI Analyst
 
-Here are some ideas to get you started:
+I work with data to turn business questions into clear metrics, dashboards and analytical insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**  
+SQL • PostgreSQL • ClickHouse • Python • pandas • Yandex DataLens • Power BI • Tableau
+
+**What I work with:**
+- BI dashboards and data visualization
+- Business metrics and analytical reporting
+- Data quality and investigation of data discrepancies
+- Working with data from multiple sources: CRM systems, PostgreSQL, ClickHouse, and 1C
+- Exploratory data analysis
+
+🧬 Background in biology and scientific research.  
+Currently especially interested in **BI, Product Analytics and MedTech / HealthTech**.
