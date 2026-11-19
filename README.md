@@ -16,3 +16,6 @@ SQL • PostgreSQL • ClickHouse • Python • pandas • Yandex DataLens • 
 
 🧬 Background in biology and scientific research.  
 Currently especially interested in **BI, Product Analytics and MedTech / HealthTech**.
+
+**Welcome to my blog:**
+https://data-by-dasha.kudoz.tech/
